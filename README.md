@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on [ema-john](https://ema-john-100.web.app/)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://codewithshamim.web.app](https://codewithshamim.web.app)
 
 - 📫 How to reach me **shamimislamonline@gmail.com**
+
+![MERN Stack Developer](https://github.com/CodeWithShamim/CodeWithShamim/blob/main/profile%20banner.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
