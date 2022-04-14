@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shamim islam</h1>
 <h3 align="center">MERN stack developer</h3>
 
-![MERN Stack Developer](https://github.com/CodeWithShamim/CodeWithShamim/blob/main/profile%20banner%202.png)
+![MERN Stack Developer](https://github.com/CodeWithShamim/CodeWithShamim/blob/main/profile%20banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithshamim&label=Profile%20views&color=0e75b6&style=flat" alt="codewithshamim" /> </p>
 
