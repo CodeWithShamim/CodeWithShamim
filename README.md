@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm shamim islam</h1>
 <h3 align="center">MERN stack developer</h3>
 
+![MERN Stack Developer](https://github.com/CodeWithShamim/CodeWithShamim/blob/main/profile%20banner%202.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithshamim&label=Profile%20views&color=0e75b6&style=flat" alt="codewithshamim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithshamim" alt="codewithshamim" /></a> </p>
@@ -13,7 +15,6 @@
 
 - 📫 How to reach me **shamimislamonline@gmail.com**
 
-![MERN Stack Developer](https://github.com/CodeWithShamim/CodeWithShamim/blob/main/profile%20banner.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
