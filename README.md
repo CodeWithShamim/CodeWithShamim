@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithshamim&label=Profile%20views&color=0e75b6&style=flat" alt="codewithshamim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithshamim" alt="codewithshamim" /></a> </p>
-
 - 🔭 I’m currently working on [ema-john](https://ema-john-100.web.app/)
 
 - 🌱 I’m currently learning **Node.js**
