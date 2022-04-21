@@ -1,4 +1,4 @@
-![MERN Stack Developer](https://github.com/CodeWithShamim/CodeWithShamim/blob/main/profile%20animation%20banner.gif)
+![MERN Stack Developer](https://i.ibb.co/vwrtPxF/github-banner.gif)
 
 <h1 align="center">Hello, I'm shamim islam</h1>
 <h3 align="center">MERN Stack Developer</h3>
