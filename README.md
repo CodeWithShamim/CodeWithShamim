@@ -1,21 +1,5 @@
 ![MERN Stack Developer](https://i.ibb.co/vwrtPxF/github-banner.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithshamim&label=Profile%20views&color=0e75b6&style=flat" alt="codewithshamim" /> </p>
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13236
-Fork on GitHub
-3451
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm SHAMIM ISLAM</h1>
 <h3 align="center">React Native & MERN Stack Developer from Bangladesh</h3>
 
